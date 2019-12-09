@@ -1,1 +1,2 @@
-# soft-7
+# Project: SOFT-7
+This project is made for blahblahblah
